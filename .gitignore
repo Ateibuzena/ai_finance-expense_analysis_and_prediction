@@ -1,0 +1,32 @@
+.env
+
+# Byte-compiled / cached
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment / virtualenv
+.env/
+.venv/
+env/
+venv/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data files (ya que los obtienes con scripts, no subir raw grandes)
+data/raw.json
+data/processed*.csv
+
+# Logs
+*.log
+
+# Streamlit / caches
+.streamlit/
