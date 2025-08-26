@@ -1,7 +1,11 @@
 # 🚀 Check out the 2nd place winner at Hackathon Startup Week 2024!
 
-# AI_Finance_Project
-
+# AI_Finance
+<li>
+  <a href="https://drive.google.com/file/d/1fnGG31PxtJdiQ_TRe-qT-050EmfuXeAv/view?usp=sharing">Demo video</a> |
+  <a href="https://github.com/Ateibuzena/Proyecto_AI_Finance">GitHub Repository</a> |
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7196088270793936897/">LinkedIn Post</a>
+</li>
 
 ## Project Description
 
